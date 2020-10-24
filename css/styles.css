@@ -1,0 +1,75 @@
+#title{
+  background-color: #ff4c68;
+}
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.top-heading{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 4.5rem;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding: 0 0 4.5rem 0;
+}
+
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+#navbarNav{
+  font-size: 1.25rem;
+}
+
+.nav-item{
+  padding: 0 16px;
+}
+
+.iphone{
+  width: 60%;
+  padding-top: 5%;
+  transform: rotate(20deg);
+
+}
+
+.download-btn{
+  margin-right: 2rem;
+  font-size: 1.25rem;
+}
+
+/* Features */
+
+#features{
+  padding: 10% 0;
+}
+
+.feature-name{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+  padding-top: 3%;
+  padding-bottom: 5%;
+
+}
+
+.feature-icon{
+  color: #ef8172;
+}
+
+.feature-icon:hover{
+  color: #ff4c68;
+}
+
+.feature-desc{
+  color: #8f8f8f;
+}
