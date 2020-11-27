@@ -8,6 +8,7 @@ body{
 
 .top-heading{
   font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
   color: white;
   font-size: 3rem;
   line-height: 1.5;
@@ -20,6 +21,10 @@ body{
 
 .navbar{
   padding: 0 0 4.5rem 0;
+}
+
+p{
+  color: #8f8f8f;
 }
 
 
@@ -75,4 +80,78 @@ body{
 
 .feature-desc{
   color: #8f8f8f;
+}
+
+/* Testimonials Section */
+
+#testimonials{
+  background-color: #ef8172;
+  padding: 5% 0%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #fff;
+}
+
+.testimonial-text{
+  padding-left: 5%;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+.dog-img{
+  border-radius: 100%;
+}
+
+.carousel-inner{
+  padding: 0% 10%;
+
+}
+
+/* Press */
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.press-img{
+  width: 22%;
+  padding: 0% 2%;
+}
+
+/* Pricing */
+
+#pricing{
+  padding: 5%;
+    text-align: center;
+}
+
+
+
+.card-deck{
+  padding: 2% 10%;
+
+}
+
+.card-header{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+
+}
+
+.pricing-head{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 750;
+  font-size: 2rem;
+}
+
+.card-body{
+}
+
+.price-val{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2.2rem;
+  padding-bottom: 2%;
 }
